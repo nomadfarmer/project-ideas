@@ -7,6 +7,8 @@ Notes on ideas for new projects
 
 ** poker study tools
 
+** Reddit fortune
+
 * OSS projects to learn
 ** Minigo
 
